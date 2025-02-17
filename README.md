@@ -13,4 +13,4 @@ External Info: A link to a Wikipedia page explaining how to play Tic Tac Toe.
 🛠️ Technologies Used:
 HTML: For the basic structure of the game.
 CSS: For the styling and layout.
-JavaScript: For game logic, event handling, and dynamic DOM manipulation.
+JavaScript: For game logic, event handling, and dynamic DOM manipulation.\
